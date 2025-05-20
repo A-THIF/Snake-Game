@@ -1,0 +1,14 @@
+# This game uses only standard library modules
+# No external dependencies required
+
+# Python version
+python>=3.6.0
+
+# The game uses the following standard modules:
+# os - For system operations
+# sys - For system-specific parameters and functions
+# time - For timing and delays
+# random - For generating random positions
+# msvcrt - For keyboard input handling (Windows specific)
+# traceback - For error debugging
+
