@@ -107,6 +107,18 @@ Contributions are welcome! Some ideas for improvements:
 - Create difficulty levels
 - Add a graphical interface
 
+  ### 💡 Run Without Python (Standalone `.exe` for Windows)
+
+### Don't have Python installed? No problem!
+
+1. [Download the game (.zip)](https://github.com/yourusername/Snake-Game/releases/download/v1.0.0/Snake-Game-Windows.zip)
+2. Extract the `.zip` file
+3. Double-click `snake_game.exe`
+4. Play directly in your terminal 🐍
+
+> ⚠️ You may need to click "Run anyway" if Windows Defender prompts.
+
+
 ## 📜 License
 
 This project is available under the MIT License - feel free to use, modify, and distribute this code.
