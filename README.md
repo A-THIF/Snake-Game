@@ -111,7 +111,7 @@ Contributions are welcome! Some ideas for improvements:
 
 ### Don't have Python installed? No problem!
 
-1. [Download the game (.zip)](https://github.com/yourusername/Snake-Game/releases/download/v1.0.0/Snake-Game-Windows.zip)
+1. [Download the game (.zip)](https://github.com/A-THIF/Snake-Game/releases/tag/v1.0.0)
 2. Extract the `.zip` file
 3. Double-click `snake_game.exe`
 4. Play directly in your terminal 🐍
